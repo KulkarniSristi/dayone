@@ -1,0 +1,2 @@
+# dayone
+GitHub and licenses
