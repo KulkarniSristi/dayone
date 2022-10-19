@@ -8,5 +8,4 @@ GitHub and licenses
 ## Licenses
 1.different types of licenses
 2.importance of licenses
-3.
-4.
+....
